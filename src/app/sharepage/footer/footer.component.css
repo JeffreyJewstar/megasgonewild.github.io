@@ -1,0 +1,16 @@
+.footer
+{
+    overflow: hidden;
+    background-color: black;
+    position: sticky;
+    top:100%;
+    padding: 20px 10px;
+}
+h1
+{
+    text-align: center;
+    margin:auto;
+    color:rgb(255, 255, 255);
+    font-size: 30px;    
+
+}
